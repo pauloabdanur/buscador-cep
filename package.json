@@ -1,5 +1,6 @@
 {
   "name": "buscador",
+  "homepage": "https://pauloabdanur.github.io/buscador-cep/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
